@@ -1,6 +1,6 @@
-## II Introducción a la virtualización
+# II Introducción a la virtualización
 
-# Índice
+## Índice
 
 1. Introducción
 
